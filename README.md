@@ -17,4 +17,6 @@
 ###
 ## Cheat sheet
 [Vim cheat sheet](https://vim.rtorr.com)
-## RSS Feed
+## RSS Feed (.newsboat/urls)
+http://esr.ibiblio.org/?feed=rss
+https://jvns.ca/atom.xml
