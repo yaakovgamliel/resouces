@@ -22,3 +22,6 @@
 http://esr.ibiblio.org/?feed=rss
 
 https://jvns.ca/atom.xml
+
+http://ilya.puchka.me/rss
+
