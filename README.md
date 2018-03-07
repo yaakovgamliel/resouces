@@ -18,6 +18,7 @@
 ## Cheat sheet
 [Vim cheat sheet](https://vim.rtorr.com)
 ## RSS Feed (.newsboat/urls)
-[Julia Evans](http://esr.ibiblio.org/?feed=rss)
 
-[E.S Raymond](https://jvns.ca/atom.xml)
+http://esr.ibiblio.org/?feed=rss
+
+https://jvns.ca/atom.xml
